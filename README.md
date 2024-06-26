@@ -22,10 +22,10 @@
 
    1. Go to: https://www.reddit.com/r/place (refresh the page).
    2. Click the settings icon (top left):
-      > ![settings-icon](https://github.com/shaanaliyev/r-place-overlay/assets/35802638/e0f2aa9a-268d-4933-b49b-670c0ccdc706)
+      > ![settings-icon](https://github.com/seabeya/r-place-overlay/assets/35802638/e0f2aa9a-268d-4933-b49b-670c0ccdc706)
    3. Enter your Template URL here:
 
-      > ![image](https://github.com/shaanaliyev/r-place-overlay/assets/35802638/2f34f7c7-d058-4101-b28b-7b9e9c2c38cb)
+      > ![image](https://github.com/seabeya/r-place-overlay/assets/35802638/2f34f7c7-d058-4101-b28b-7b9e9c2c38cb)
 
       > If you don't have a ready template, please have a look at the ["How To Create A Template"](#-how-to-create-a-template) section.
 
@@ -33,7 +33,7 @@
 
       > If prompted for permission, click "Always allow domain".
 
-      > ![image](https://github.com/shaanaliyev/r-place-overlay/assets/35802638/ed806b67-882e-409d-8e9d-01b2d37c20c4)
+      > ![image](https://github.com/seabeya/r-place-overlay/assets/35802638/ed806b67-882e-409d-8e9d-01b2d37c20c4)
 
    5. Done! You will now see the template overlay on the Reddit Place canvas.
 
@@ -57,7 +57,7 @@
    2. Enter the base template:
       ```json
       {
-        "contact": "https://github.com/shaanaliyev",
+        "contact": "https://github.com/seabeya",
         "templates": [
           {
             "name": "NAME_YOUR_ART",
@@ -87,7 +87,7 @@ Extra:
 >
 > ```json
 > {
->   "contact": "https://github.com/shaanaliyev",
+>   "contact": "https://github.com/seabeya",
 >   "templates": [
 >     {
 >       "name": "NAME_YOUR_ART_1",
@@ -109,7 +109,7 @@ Extra:
 
 ---
 
-Looking for R-Placer? (It's a different r/place project.) Have a look: https://shaanaliyev.github.io/r-placer
+Looking for R-Placer? (It's a different r/place project.) Have a look: https://r-placer.seabeya.com/
 
 > Useful for:
 >
