@@ -109,7 +109,7 @@ Extra:
 
 ---
 
-Looking for R-Placer? (It's a different r/place project.) Have a look: https://r-placer.seabeya.com/
+Looking for R-Placer? It's a different r/place project. Have a look: https://r-placer.seabeya.com/
 
 > Useful for:
 >
