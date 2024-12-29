@@ -6,9 +6,6 @@
 
 <br>
 
-> **Note**:
-> Only works on PC.
-
 ---
 
 ### 🔷 How To Use
